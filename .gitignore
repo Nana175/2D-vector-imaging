@@ -3,4 +3,6 @@ lightning_logs
 *.out
 checkpoints
 data
-images
+images/vector_field_gt
+images/vector_field_output
+*.npy
